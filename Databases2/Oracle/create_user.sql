@@ -14,6 +14,6 @@ GRANT CREATE SESSION,
 undefine password;
 undefine tbsp;
 undefine username;
---alter user sbarlas identified by Saadat123;
+--alter user sbarlas identified by ----;
 
 --select * from dba_users;
