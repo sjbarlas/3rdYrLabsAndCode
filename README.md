@@ -1,2 +1,3 @@
-# MobileSWDevDT228-3
-Mobile Software Development in Java
+1. Databases 2
+2. Knowledge Engineering
+3. Mobile Software Development
