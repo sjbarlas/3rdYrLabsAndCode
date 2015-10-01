@@ -1,0 +1,19 @@
+<?xml version = "1.0"?>
+<students>
+	<student gender="Female">
+		<name> <!-- 1 -->
+			<firstname>Saira</firstname>
+			<lastname>Barlas</lastname>
+		</name>
+		<homeaddress> <!-- 2 -->
+			<street1>4 The Green</street1>
+			<street2>Pheasant Run</street2>
+			<city>Clonee</city>
+			<postcode>Dublin 15</postcode>
+		</homeaddress>
+		<age>22</age> <!-- 3 -->
+		<course FullorParttime="Full">DT228 BSc Computer Science</course> <!-- 4 -->
+		<cityofstudy>Dublin</cityofstudy> <!-- 5 -->
+		<institution>Dublin Institute of Technology</institution> <!-- 6 -->		
+	</student>
+</students>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Project</string>
+
+    <!--<string name="hello_world">Hello world!</string>-->
+    <string name="change">This is Saira!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_text">Click me!</string>
+    <string name="button2_text">No, click me!</string>
+</resources>
