@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Intent</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text">Green</string>
+    <string name="more_text">Red</string>
+</resources>
