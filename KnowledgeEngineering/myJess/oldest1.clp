@@ -17,7 +17,6 @@
 
 (defglobal ?*oldest* = 200  ?*old-name* = "")
 
-
 (defrule oldest-male-rule
     (person (name ?n) (age ?a) (gender Male))
 	=>
@@ -35,8 +34,7 @@
 	(retract ?f1)
 	(retract ?f2)
 )    
-     
-     
+  
 (deffunction find-oldest-male ()
     (assert (oldest-male (age 0)))
 	(run)

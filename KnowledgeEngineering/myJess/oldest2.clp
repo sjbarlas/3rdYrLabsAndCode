@@ -31,8 +31,7 @@ b(clear)
 	(retract ?f1)
 	(retract ?f2)
 )    
-     
-     
+
 (deffunction find-oldest-male ()
     (assert (oldest-male (age 0)))
 	(run)

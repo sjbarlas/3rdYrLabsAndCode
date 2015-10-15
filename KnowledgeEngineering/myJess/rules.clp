@@ -30,8 +30,6 @@
     (do-something)
 )
 
- 
-
 (deffunction do-something ()
     (printout t "I fired 3 rules" crlf))
     

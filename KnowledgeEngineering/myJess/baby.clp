@@ -6,7 +6,6 @@
     (retract ?w)
 )
 
-
 (deffunction change-baby ()
   (printout t "baby is now being changed" crlf))
   
