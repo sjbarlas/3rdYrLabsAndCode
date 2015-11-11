@@ -1,6 +1,6 @@
 ; Rule r1 looks like it has no antecedent,
 ; but in fact it has an implicit one which is
-;C:\Users\Saira\Desktop\Labs\KnowledgeEngineering\Jess71p2\Jess71p2\lib\jess.jar jess.Main
+; C:\Users\Saira\Desktop\Labs\KnowledgeEngineering\Jess71p2\Jess71p2\lib\jess.jar jess.Main
 
 ; initial-fact. r1 won't fire until initial-fact
 ; is asserrted.
