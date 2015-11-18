@@ -1,7 +1,7 @@
 (clear)
 
 (deftemplate person "People in actuarial database"
-    (slot age)  (slot name)  ()slot gender))
+    (slot age)  (slot name)  (slot gender))
 
 (assert (person (name "sue") (gender Female) (age 7)))    
 (assert (person (name "Bob Smith") (age 34) (gender Male)))

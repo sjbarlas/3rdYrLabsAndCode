@@ -1,0 +1,7 @@
+cd C:\Users\Saira\Desktop\Labs\KnowledgeEngineering\myJess
+
+java -classpath C:\Users\Saira\Desktop\Labs\KnowledgeEngineering\Jess71p2\Jess71p2\lib\jess.jar jess.Main
+
+(watch all)
+(reset)
+(batch)
